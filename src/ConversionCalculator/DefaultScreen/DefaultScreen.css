@@ -1,0 +1,12 @@
+.results{
+    font-family: Courier, monospace;
+    height: 15vh;
+    padding: 20px;
+    margin-bottom: 2vh;
+    margin-top: 4vh;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    cursor: default;
+    outline: none;
+    font-size: x-large;
+}

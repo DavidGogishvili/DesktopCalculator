@@ -1,25 +1,20 @@
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
+import HeaderComponent from "./Header/HeaderComponent";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const [result, setResult] = useState('0');
+
+    return (
+        <div className="App">
+            <header>
+                <HeaderComponent setResult={setResult} />
+            </header>
+            <main>
+                {/* Other main content */}
+            </main>
+        </div>
+    );
 }
 
 export default App;

@@ -1,0 +1,31 @@
+
+
+img {
+    height: 4vh;
+    width: 2vw;
+}
+
+.keypadConversion {
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    gap: 0.3vw;
+}
+.button {
+    border-radius: 5px;
+    background-color: #ccc;
+    cursor: pointer;
+    width: 6.3vw;
+    height: 6vh;
+}
+
+#clearConversion {
+    width: 19.7vw;
+    height: 7vh;
+    margin-top: 0.5vh;
+    background-color: rgba(245, 123, 0, 0.41);
+
+}
+
+.button:hover {
+    background-color: rgba(245, 123, 0, 0.41);
+}

@@ -1,0 +1,63 @@
+
+.Tipcalculator {
+    height: 58vh;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+    width: 20vw;
+    margin: 0 auto;
+    padding: 10px;
+    font-family: Courier, monospace;
+    background-color: whitesmoke;
+
+}
+
+.Tipscreen {
+    height: 30vh;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    width: 18vw;
+    margin: 4vh auto;
+    background-color: whitesmoke ;
+
+}
+
+.input {
+
+}
+
+.Tipresults {
+margin-right: 10vw;
+
+}
+
+.Tipresult {
+ margin-right: 11vw;
+
+}
+
+span {
+    font-size: small;
+
+}
+
+.clear {
+    width: 9.7vw;
+    height: 5vh;
+    margin-top: 1.5vh;
+    background-color: rgba(245, 123, 0, 0.41);
+    font-family: Courier, monospace;
+
+
+}
+
+
+label {
+    margin-top: 1vh;
+}
+
+.result {
+    width: 20px;
+    height: 20px;
+    margin-left: 10vw;
+    margin-top: -9vh;
+ }
