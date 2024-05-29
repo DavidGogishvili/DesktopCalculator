@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/desktopcalculator/static/css/main.5c05eb74.css",
+    "main.js": "/desktopcalculator/static/js/main.8d0fa10a.js",
+    "static/media/time.png": "/desktopcalculator/static/media/time.16531c1ae88d27f927f0.png",
+    "static/media/energy.png": "/desktopcalculator/static/media/energy.2e800630cdf720cd49ba.png",
+    "static/media/pressure.png": "/desktopcalculator/static/media/pressure.ac4e86d9726b3dc02748.png",
+    "static/media/mass.png": "/desktopcalculator/static/media/mass.f5cc03bcc42bf5aa81e1.png",
+    "static/media/thermometer.png": "/desktopcalculator/static/media/thermometer.5cb49dc182262666a503.png",
+    "index.html": "/desktopcalculator/index.html",
+    "main.5c05eb74.css.map": "/desktopcalculator/static/css/main.5c05eb74.css.map",
+    "main.8d0fa10a.js.map": "/desktopcalculator/static/js/main.8d0fa10a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c05eb74.css",
+    "static/js/main.8d0fa10a.js"
+  ]
+}
