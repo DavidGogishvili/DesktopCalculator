@@ -9,4 +9,7 @@
     cursor: default;
     outline: none;
     font-size: x-large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
